@@ -13,6 +13,9 @@
 | **HSRP** | 게이트웨이 이중화 및 로드 밸런싱 | R6, R8 $\leftrightarrow$ Switch12 |
 | **NAT Overload (PAT)** | 내부망의 외부 인터넷 접속 | **R4 (Internet GW)** |
 
+
+## 아키텍처 다이어그램
+![시스템 다이어그램](images/diagram.png)
 -----
 
 ## 🗺️ 1. 최종 아키텍처 및 IP 할당
